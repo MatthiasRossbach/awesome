@@ -35,7 +35,9 @@
 * [Landing Page Testing](https://vwo.com/blog/de/landingpage-testing-dieser-leitfaden-bringt-sie-auf-den-neuesten-stand/) - Guide to Landing Pages Testing
 
 
-# External Services
+# Purchase Design Assets, like Themes, (Invoice/Flyer) Templates and Graphics
 
 * [Fiverr](https://de.fiverr.com/) - Purchase individual digital services online (e.g. Logo)
 * [Envato Studio](https://studio.envato.com/) - A community of designers, developers and creatives ready for your project
+* [Envato Market](https://graphicriver.net/) - Purchase ready-to-use design assets
+* [Creative Market](https://creativemarket.com/) - Purchase ready-to-use design assets
