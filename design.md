@@ -1,3 +1,5 @@
+Recommended Starting Point for Design Resources is [PDR](https://www.productdesignresources.com/)
+
 # UX
 
 * [Smashing Magazine](https://www.smashingmagazine.com/) - Recommended Blog for Web Creators
@@ -8,11 +10,6 @@
 * [Web Usability Guidelines](https://www.userfocus.co.uk/resources/guidelines.html) - Simple timeless Principles to build a User Friendly Website
 * [Design Survival](https://www.richardbaird.co.uk/design-survival) - Collection of Principles by Designers for Designers
 
-## User Testing
-
-* [User Testing](https://www.usertesting.com/) - Platform to get user feedback
-* [HotJar](https://www.hotjar.com/) - Especially helpful for Generating Heat Maps of User Interactions
-
 ## Wireframing
 
 * [Priority Guides: A Content-First Alternative to Wireframes](http://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes/) - Blog Article
@@ -20,10 +17,20 @@
 * [UI Stencil](https://www.uistencils.com/) - Stencil and Sketch Pads for Offline Wireframing
 * [Balsamiq](https://balsamiq.com/) - If you like to keep your low fidelity wireframes separated from your high fidelity design tool, than Balsamiq is a niche tool just for sketchy wireframes
 
+## User Testing and Feedback Collection
+
+* [User Testing](https://www.usertesting.com/) - Platform to get user feedback
+* [HotJar](https://www.hotjar.com/) - Especially helpful for Generating Heat Maps of User Interactions
+* [User Research for Startups](https://medium.com/startup-garage-at-station-f/creative-user-research-tactics-for-startups-3742ee522c60) - Blog Article
+* [Survey Monkey](https://www.surveymonkey.de/) - Online Questionnaires
+* [Google Forms](https://www.google.de/intl/de/forms/about/) - Free Online Forms
+
+
 # UI
 
+* [Figma](https://www.figma.com/) - Recommended design tools for UI
 * [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/) - Iconic 'Atomic Design' (Free Online Book) by Brad Frost
-* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Collection of background patterns
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Collection Of Background Patterns
 * [Noise Texture Generator](https://www.noisetexturegenerator.com/) - Generate background pattern with noise
 * [Blob Generator](https://blobs.app/) - Generate blob shapes
 * [UI Gradients](https://uigradients.com/) - Colorful Gradient Inspirations
@@ -59,8 +66,8 @@
 
 * [Material Design Icons](https://fonts.google.com/icons) - Large Collection of Free Icons
 * [Font Awesome](https://fontawesome.com/) - Large Collection of Free Icons
-* [Icomoon](https://icomoon.io/app/#/select) - Recombine icons from different sets into a custom icon font (Attention: You have to Respect each Icon Set's License)
-* [Fontello](https://fontello.com/) - Recombine icons from different sets into a custom icon font (Attention: You have to Respect each Icon Set's License)
+* [Icomoon](https://icomoon.io/app/#/select) - Recombine Icons from Different Sets into a Custom Icon Font (Attention: You have to Respect each Icon Set's License)
+* [Fontello](https://fontello.com/) - Recombine Icons from Different Sets into a Custom Icon Font (Attention: You have to Respect each Icon Set's License)
 
 
 ## Images
@@ -68,7 +75,6 @@
 * [Unsplash](https://unsplash.com/) - Free High Quality Images (no attribution required)
 * [Pexels](https://www.pexels.com/) - Free High Quality Images (no attribution required)
 * [PlaceIMG](http://placeimg.com/) - Beautiful auto-generated placeholder images
-* [Infogram](https://infogram.com/) - Tool for creating Infographics including Library of Infographics for Inspiration
 * [Base64 Image Converter](https://www.base64-image.de/) 
 * [Tiny PNG](https://tinypng.com/) - Image Compression Tool - Free up to 20 images (Web) / 500 images per month (API)
 
@@ -88,7 +94,6 @@ There are more excellent [styleguides](http://styleguides.io/), but these inspir
 * [Awwwards](https://www.awwwards.com/)
 * [CSS Winner](https://www.csswinner.com/)
 * [Best CSS Award](https://www.bestcssaward.com/)
-* [Desing Case Studies](https://web.dev/tags/case-study/) - Case Studies about Impact of Design Changes 
 
 ## Animations
 
@@ -99,10 +104,20 @@ There are more excellent [styleguides](http://styleguides.io/), but these inspir
 * [Shaky Animations](https://elrumordelaluz.github.io/csshake/) - Shaky Animations
 
 
-## Other
+## Slides and Marketing Materials
+
+* [Slides](https://slides.com/) - Create Online Presentations
+* [Prezi](https://prezi.com/) - Anoter Online Presentation Tool
+* [Canva](https://www.canva.com/) - Tool for Creating Marketing Materials 
+* [Infogram](https://infogram.com/) - Tool for creating Infographics including Library of Infographics for Inspiration
+* [Piktochart](https://piktochart.com/) - Another tool for infographics
+
+## Other Inspiration Collections
 
 * [Dribbble](https://dribbble.com/) - Platform for design portfolios - good to find designers as well
 * [Behance](https://www.behance.net/) - Another famous location where designers post their portfolio
+* [UI Inspiration Collection](https://www.productdesignresources.com/ui-design-inspiration-resources) - Comprehensive list of platforms for Design Inspiration
+* [Desing Case Studies](https://web.dev/tags/case-study/) - Case Studies about Impact of Design Changes 
 * [Code My UI](https://codemyui.com/) - Large Collection of Design Elements including Animations & Code Examples
 * [Preloaders](https://icons8.com/preloaders) - Loading, waiting, and spinning animations
 * [typ.io](https://typ.io/) - Typographic inspirations

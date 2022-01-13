@@ -1,4 +1,4 @@
-Recommended starting point to learn Frontend Web Technolgy Fundamentals is [MDN Web Docs](https://developer.mozilla.org/de/)
+Recommended starting point to learn Frontend Web Technolgy Fundamentals is [MDN Web Docs](https://developer.mozilla.org/de/) and [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 
 # HTML
@@ -9,6 +9,10 @@ Recommended starting point to learn Frontend Web Technolgy Fundamentals is [MDN 
 * [HTML Outliner](https://gsnedders.html5.org/outliner/) - Test if your HTML Headline Structure makes sense
 * [HTML5 Input Pattern](https://www.html5pattern.com/) - Regulary used pattern for input validation of \<input\> elements
 * [Microformats](http://microformats.org/) - Standard to enrich your content semantically beyond HTML tags
+* [Schema.org](https://schema.org/docs/gs.html) - Another Standard for Structured Data
+* [Intro Structured Data](https://developers.google.com/search/docs/advanced/structured-data/intro-structured-data) - Official Guide by Google for Using Structured Data
+* [Rich Result Validator](https://search.google.com/test/rich-results) - Test if your Site Supports Rich Results
+* [Schema Validator](https://validator.schema.org/) - Test if your Site has Valid Structured Data
 * [HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) - Simple HTML/CSS Style Guide by Google
 * [HTML Character Codes](https://websitebuilders.com/tools/html-codes/a-z/) - HTML Code for Special Character
 
@@ -24,6 +28,7 @@ Recommended starting point to learn Frontend Web Technolgy Fundamentals is [MDN 
 * [Scalable CSS](https://github.com/davidtheclark/scalable-css-reading-list) - A reading list
 * [53 CSS-Techniques](https://www.smashingmagazine.com/2007/01/53-css-techniques-you-couldnt-live-without/) Collection of CSS Articles by Smashing Magazine
 * [CSS Specificity Graph](https://jonassebastianohlsson.com/specificity-graph/)
+* [CSS Stats](https://cssstats.com/) - Analyse the CSS of a page
 * [SASS](https://sass-lang.com/documentation) - Recommended CSS preprocessor
 * [Idiomatic CSS](https://github.com/necolas/idiomatic-css) - CSS Style Guide
 
@@ -35,6 +40,10 @@ Recommended starting point to learn Frontend Web Technolgy Fundamentals is [MDN 
 * [Plain Pattern](http://www.kennethcachia.com/plain-pattern/) - Generate Seamless Background Pattern with SVGs
 
 # Javascript
+
+* [Plyr](https://plyr.io/) - Customizable Video Player
+
+
 ## Graphs
 
 * [Anime](https://animejs.com/) - Javascript animation engine
@@ -42,7 +51,10 @@ Recommended starting point to learn Frontend Web Technolgy Fundamentals is [MDN 
 
 # Performance
 
+* [PageSpeed Insights](https://pagespeed.web.dev/) - Website Performance Measurement by Google
 * [PerfRocks](https://perf.rocks/) - Web Performance Resources Collection
+* [Awesome WPO](https://awesome-wpo.netlify.app/) - Curated List of Resources for Web Performance Optimization
+* [Perf-Tooling](https://www.perf-tooling.today/) - Another Curated List for Web Performance Optimization
 
 # Cross-Browser Support
 
@@ -58,12 +70,6 @@ Recommended starting point to learn Frontend Web Technolgy Fundamentals is [MDN 
 * [w3counter](https://www.w3counter.com/globalstats.php) - Another source of browser stats
 * [w3schools](https://www.w3schools.com/browsers/default.asp) - Another source of browser stats
 
-# SEO
-
-* [RankingCHECK](https://www.seobility.net/de/rankingcheck/) - Kostenloser Ranking Check mit Seobility
-* [Backlink Tool](https://www.backlink-tool.org/) - Check Backlinks
-
-
 
 # Accessibility
 
@@ -76,6 +82,12 @@ Recommended starting point to learn Frontend Web Technolgy Fundamentals is [MDN 
 * [MJML](https://mjml.io/) - Framework for cross-client responsive emails, including online editor
 * [Browser Support](https://www.campaignmonitor.com/css/) - Browser Support Table of HTML/CSS properties
 * [Litmus](https://www.litmus.com/) - Cross Email-Client testing of mails (expensive)
+
+# Analytics
+
+* [Google Analytics](https://marketingplatform.google.com/about/analytics/)
+* [Google Analytics API Demos](https://ga-dev-tools.web.app/) - Showcase what you can do with the Google Analytics APIs
+
 
 # Other
 
