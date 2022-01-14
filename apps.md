@@ -15,4 +15,7 @@
 
 
 
-# Online Tools
+# Other
+
+* [NodeJS](https://nodejs.org/en/) - Javascript Runtime
+* [ESLint](https://eslint.org/) - Standard Linter (Code Quality Checker) for JS

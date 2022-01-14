@@ -22,6 +22,8 @@ Recommended starting point to learn Frontend Web Technolgy Fundamentals is [MDN 
 * [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - All CSS properties and their possible values
 * [CSS Tricks](https://css-tricks.com/) - Recommended Blog for CSS
 * [CSS Remix](https://cssremix.com/) - A guide to CSS and CSS frameworks
+* [Bootstrap](https://getbootstrap.com/) - Most famous CSS UI library
+* [Foundation](https://get.foundation/) - Alternative to Bootstrap
 * [BEM](https://en.bem.info/methodology/quick-start/) - The Block-Entity-Modifier (BEM) naming convention
 * [OOCSS](https://www.keycdn.com/blog/oocss) - The Object-Oriented-CSS (OOCSS) to write CSS
 *[SMACSS](http://smacss.com/) - Free Online Book about Scalable and Modular CSS
@@ -41,12 +43,40 @@ Recommended starting point to learn Frontend Web Technolgy Fundamentals is [MDN 
 
 # Javascript
 
-* [Plyr](https://plyr.io/) - Customizable Video Player
+* [Javascript Best Practices](https://www.thinkful.com/learn/javascript-best-practices-1/)
+* [Google Javascript Style Guide](https://google.github.io/styleguide/jsguide.html)
+* [Idiomatic.js](https://github.com/rwaldron/idiomatic.js/) - Another Javascript Style Guide
+* [Memory Management](https://www.youtube.com/watch?v=LaxbdIyBkL0) - Youtube Talk by Addy Osmani ([Slides](https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass) available)
 
+## Libraries & Frameworks
+
+* [NPM](https://www.npmjs.com/) - Not only a source to download libraries, but provides more meta data about them (e.g. dependencies)
+* [NPM Trends](https://www.npmtrends.com/) - Compare package downloads over time
+* [Star History](https://star-history.com/) - Compare github projects over time
+* [Vue](https://vuejs.org/)
+* [Angular](https://angular.io/)
+* [React](https://reactjs.org/)
+* [Vuetify](https://vuetifyjs.com/en/) - Recommended Vue UI Library
+* [Angular Material](https://material.angular.io/) - Recommended Angular UI Library
+* [Plyr](https://plyr.io/) - Customizable Video Player
+* [RevealJS](https://revealjs.com/) - The engine behing slides.com
+* [PrismJS](https://prismjs.com/) - Display Syntax-Highlighted Code on a Website
+* [ESLint](https://eslint.org/) - Standard Linter (Code Quality Checker) for JS
+* [BackgroundCheck](http://www.kennethcachia.com/background-check/index.html) - Switches Colors of Elements in front of Images
 
 ## Graphs
 
-* [Anime](https://animejs.com/) - Javascript animation engine
+* [Anime](https://animejs.com/) - Javascript animation engine (including SVG)
+* [d3](https://d3js.org/) - Draw Custom Charts
+* [ChartJS] - Simple Charting
+* [ThreeJS](https://threejs.org/) - Javascript 3D Library
+
+# Mobile & Desktop Apps
+
+* [Electron](https://www.electronjs.org/) - Build Cross-Platform Applications with Web Stack
+* [Ionic](https://ionicframework.com/) - Framework to build Hybrid Apps
+* [React Native](https://reactnative.dev/) - Write Apps in React, renders into native Code
+* [Fluttr](https://flutter.dev/) - Natively Compiled, multi-platform application from a Single Codebase
 
 
 # Performance
@@ -62,6 +92,7 @@ Recommended starting point to learn Frontend Web Technolgy Fundamentals is [MDN 
 * [Core.js](https://github.com/zloirock/core-js) - Modular polyfill library for JavaScript
 * [Polyfill.io](https://polyfill.io/v3/) - Detects and Serve granuarily required polyfills (Alternative to Core-JS if smaller inital bundles are required)
 * [Autoprefixer](https://github.com/postcss/autoprefixer) - A PostCSS Plugin to Generate Cross-Browser compatible CSS (if possible)
+* [Modernizr Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills) - Collection of even more polyfills
 * [Browerhacks](http://browserhacks.com/) - How you can Detect a Specific Browser (if still required after using the tools above)
 * [BrowserStack](https://www.browserstack.com/) - Test your Code on a Specific Browser Version, including Mobile Testing
 * [Microsoft Developer](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) - Virtual Maschines for Legacy IE Testing, Free Licenses, but they Expire after 90 days

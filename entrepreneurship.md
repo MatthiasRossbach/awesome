@@ -32,6 +32,7 @@
 * [Miro](https://miro.com/) - Digital Collaborative Whiteboard Tool
 * [Waterfall vs Agile](https://www.seguetech.com/waterfall-vs-agile-methodology/) - Which is The Right Development Methodology for Your Project
 * [Agile Manifesto](https://agilemanifesto.org/)
+* [Agile In a Nutshell](http://www.agilenutshell.com/) - Agile Introduction
 
 
 
@@ -48,6 +49,11 @@
 # Legal
 
 * [Impressumspflicht](https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html) - [German] - Required information in the imprint (offical site)
+* [GDPR Compliance Checklist](https://gdprchecklist.io/)
+* [Cookie Recommendations](https://www.datenschutz-guru.de/was-bedeutet-das-planet49-urteil-des-eugh-fuer-deine-cookies-nicht-jedes-cookie-braucht-nen-daumen-hoch/) - [German] - See cookie layer tipps in the end of the document
+* [Cookiebot](https://www.cookiebot.com/) - Check and Manages your Website's cookies
+* [Datenschutzhinweise](https://www.datenschutz-guru.de/datenschutzhinweise/) - [Deutsch] - Good example of Privacy Policy which is fun to read
+* [Datenschutz Generator](https://sos-recht.de/datenschutz/dsgvo-datenschutz-generator/) - [Deutsch] - Privacy Policy Generator
 * [Unternehmensregister](https://www.unternehmensregister.de/) - [German] Official source to find public information about a German company
 * [Markenrecherchen](https://www.markenlexikon.com/markenrecherchen.html) - [German] Hub for links to brand research and registration
 * [Dr. Datenschutz](https://www.dr-datenschutz.de/fachbeitraege/google-analytics-datenschutzkonform-einsetzen/) - [German] How to use Google Analytics GDPR compliant (interesting comments as well)
@@ -70,3 +76,4 @@
 * [MacRumors](https://www.macrumors.com/) - Website about Mac News including famouse [Buyer's Guide](https://buyersguide.macrumors.com/)
 * [PRAD](https://www.prad.de/) - Monitor Testing Website
 * [Tweetdeck](https://tweetdeck.twitter.com/) - Twitter Power Tool
+* [Cognitive Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) - As an entrepreneur you have to make decisions, therefore it is important to reflect your cognition

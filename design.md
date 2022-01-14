@@ -86,6 +86,8 @@ There are more excellent [styleguides](http://styleguides.io/), but these inspir
 
 * [Material Design](https://material.io/design) by Google
 * [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) by Apple
+* [iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines) - Good summary for iOS Apps
+* [Android Design Guidelines](https://developer.android.com/design)
  
 ## Web Design Awards Websites
 

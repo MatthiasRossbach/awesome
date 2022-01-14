@@ -63,6 +63,7 @@
 * [Agenturen Verzeichnis](https://www.webdesign-verzeichnis.de/)
 * [Betalist](https://betalist.com/) - New Startup Project List
 * [Product Hunt](https://www.producthunt.com/) - Get Feedback for New Products
+* [Gelbe Seiten](https://www.gelbeseiten.de/) - [Deutsch]
 
 
 # Ads
