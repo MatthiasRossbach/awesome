@@ -33,8 +33,11 @@ Recommended Starting Point for Design Resources is [PDR](https://www.productdesi
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Collection Of Background Patterns
 * [Noise Texture Generator](https://www.noisetexturegenerator.com/) - Generate background pattern with noise
 * [Blob Generator](https://blobs.app/) - Generate blob shapes
+* [Trianglify](https://trianglify.io/) - Create unique, aesthetically pleasing triangle patterns
 * [UI Gradients](https://uigradients.com/) - Colorful Gradient Inspirations
 * [DragGradients](https://uigradients.com/) - Radial Gradient Playground
+* [IxD Checklist](https://ixdchecklist.com/) - Interaction Design Checklist
+* [I am the fold](https://iamthefold.com/) - show how designing for The Fold can be treacherous
 
 
 ## Colors
@@ -43,7 +46,9 @@ Recommended Starting Point for Design Resources is [PDR](https://www.productdesi
 * [COLOURLovers](https://www.colourlovers.com/) - Inspiration for Color Palettes
 * [Snazzy Maps](https://snazzymaps.com/) - Color Schemes for Google Maps
 * [Color Interface Tools](https://material.io/resources/color) - Apply color schemes to app interface
-
+* [Color Emotion Guide](https://visual.ly/community/Infographics/business/color-emotion-guide) - Infographic
+* [Brand Colors](http://brandcolors.net/) - Biggest collection of official brand colors
+* [MaterialUI](https://materialui.co/) - Colors of different UI libraries
 
 
 ## Typography
@@ -77,6 +82,7 @@ Recommended Starting Point for Design Resources is [PDR](https://www.productdesi
 * [PlaceIMG](http://placeimg.com/) - Beautiful auto-generated placeholder images
 * [Base64 Image Converter](https://www.base64-image.de/) 
 * [Tiny PNG](https://tinypng.com/) - Image Compression Tool - Free up to 20 images (Web) / 500 images per month (API)
+* [Squoosh](https://squoosh.app/) - Another Free Image Compression Tool
 
 # Design Inspiration
 
@@ -100,10 +106,13 @@ There are more excellent [styleguides](http://styleguides.io/), but these inspir
 ## Animations
 
 * [CSS Animations](https://animista.net/) - Visual Editor for CSS Animations with pure CSS
+* [BounceJS](http://bouncejs.com/) - Another Playground for CSS Animations
 * [CSS Animations](https://www.minimamente.com/project/magic/) - Another source of CSS Animations
 * [CSS Animations](https://cssanimation.io//) - Another source of CSS Animations
+* [CSS Animations](https://h5bp.org/Effeckt.css/) - Another source of CSS Animations
 * [Hover Animations](https://ianlunn.github.io/Hover) - Inspiration for CSS Hover Animations
 * [Shaky Animations](https://elrumordelaluz.github.io/csshake/) - Shaky Animations
+* [cta.js](https://kushagra.dev/lab/ctajs/) - Navigational Animations
 
 
 ## Slides and Marketing Materials
@@ -122,7 +131,14 @@ There are more excellent [styleguides](http://styleguides.io/), but these inspir
 * [Desing Case Studies](https://web.dev/tags/case-study/) - Case Studies about Impact of Design Changes 
 * [Code My UI](https://codemyui.com/) - Large Collection of Design Elements including Animations & Code Examples
 * [Preloaders](https://icons8.com/preloaders) - Loading, waiting, and spinning animations
+* [Loaders.css](https://connoratherton.com/loaders) - Pure css loading animations.
 * [typ.io](https://typ.io/) - Typographic inspirations
 * [fontpair](https://www.fontpair.co/) - Find inspiring font pairings
 * [HTML Email Designs](http://htmlemaildesigns.com/) - Email Inspirations
+* [Really Good Emails](https://reallygoodemails.com/) - Another Email Inspiration Collection
 * [niceportfol.io](http://niceportfol.io/) - List of inspiring portfolio websites
+* [CSSGalleryList](https://cssgallerylist.com/) - List of CSS Galleries
+* [Webframe](https://webframe.xyz/) - Beautiful webapp designs
+* [CallToIdea](https://calltoidea.com/) - Inpsirational Design Snippets sorted by UI Components
+* [Responsive Logos](http://responsivelogos.co.uk/)
+* [UI Experiments](https://codyhouse.co/library) - Nice Collection of Interactive UI Experiments

@@ -1,6 +1,7 @@
 # Mac Apps
 
 * [Cryptomator](https://cryptomator.org/) - Additional Layer for Encrpyting your Cloud Storage
+* [Postman](https://www.postman.com/) - API testing tool
 
 
 # Chrome Extensions
@@ -15,7 +16,3 @@
 
 
 
-# Other
-
-* [NodeJS](https://nodejs.org/en/) - Javascript Runtime
-* [ESLint](https://eslint.org/) - Standard Linter (Code Quality Checker) for JS

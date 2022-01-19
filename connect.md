@@ -8,3 +8,14 @@
 
 
 * [MicroConf](https://microconf.com/) - Where Bootstrapped SaaS Founders Launch, Meet, Learn, and Grow
+
+* [AngelList](https://angel.co/) - A startup ecosystem
+
+
+# Associations
+
+* [BVDW](https://www.bvdw.org/) - Bundesverband Digitale Wirtschaft
+
+
+
+* [Brick by Brick](http://www.communitybuildingguide.com/) - A guide to build communities

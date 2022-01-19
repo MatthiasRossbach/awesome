@@ -1,4 +1,4 @@
-Recommended starting point to learn Web Techology Fundamentals is [MDN Web Docs](https://developer.mozilla.org/de/) and [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+Recommended starting point to learn Web Technology Fundamentals is [MDN Web Docs](https://developer.mozilla.org/de/) and [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 # NestJS
 
@@ -7,9 +7,10 @@ Recommended starting point to learn Web Techology Fundamentals is [MDN Web Docs]
 
 # Wordpress and PHP
 
-Even if I offered services to build Wordpress websites in the past, I cannot recommend that anymore. Not because Wordpress is a bad CMS (it is still the best OpenSource CMS in my opinion), but because most (SMB) customers are not aware that an own website is not a disposable like a flyer, but a complex technical product, which needs maintenance - like a car. Therefore: If your website budget is less than 5-digits (€) => use a website builder, they are quite good nowadays and take care of maintenance. It's much more feasible for your budget to lower your requirements instead of looking for a 'perfect' solution. I recommend: [JIMDO](https://www.jimdo.com/) (GDPR-friendly option), [Webflow](https://webflow.com/) (Most customizable option) or [Unbounce](https://unbounce.com/) (for e-commerce landing pages).
+Even if I offered services to build Wordpress websites in the past, I cannot recommend that anymore. Not because Wordpress is a bad CMS (it is still the best OpenSource CMS in my opinion), but because most (SMB) customers did not understand that an own website is not a disposable - like a flyer, but a complex technical product, which needs maintenance - like a car. Therefore: If your website budget is less than 5-digits (€) => use a website builder, they are quite good nowadays and take care of maintenance. It's much more feasible for your budget to lower your requirements instead of looking for a 'perfect' solution. I recommend: [JIMDO](https://www.jimdo.com/) (GDPR-friendly option), [Webflow](https://webflow.com/) (Most customizable option), [Shopify](https://webflow.com/) (for Webshops) or [Unbounce](https://unbounce.com/) (for e-commerce landing pages).
 
-* [WordPress.org Codex](https://codex.wordpress.org/) - Official Wordpress Documentation
+* [Wordpress Developer Resources](https://developer.wordpress.org/)
+* [WordPress.org Codex](https://codex.wordpress.org/) -  Wordpress Documentation in the old structure
 * [WPBeginner](https://www.wpbeginner.com/) - Resources and Guides for WP Beginners
 * [isitWP](https://www.isitwp.com/) - Collection of WP Resources
 * [WPShout](https://wpshout.com/) - In-depth Wordpress Tutorials for Developers
@@ -20,6 +21,7 @@ Even if I offered services to build Wordpress websites in the past, I cannot rec
 * [XAMPP](https://www.apachefriends.org/de/index.html) - PHP Development Environment & Local Test Server
 * [MAMP](https://www.mamp.info/de/mamp/mac/) - Another PHP Development Environment & Local Test Server
 * [Peter Kropff](https://www.peterkropff.de/) - [German] - Good beginner tutorial for PHP (and other Web Technologies)
+* [WPScan](https://wpscan.com/wordpress-security-scanner) - Wordpress Security Scan
 
 
 # Django
@@ -36,13 +38,22 @@ Even if I offered services to build Wordpress websites in the past, I cannot rec
 * [Securi](https://sitecheck.sucuri.net/) - Free website security & malware scanner
 * [Who Is Hosting This?](https://digital.com/best-web-hosting/who-is/) - Who Is Hosting Any Domain
 * [Regexr](https://regexr.com/) - Free Online Regex Editor
+* [Regulex](https://jex.im/regulex) - Regular Expression Visualizer
 
 
 
 # Other 
 
 * [w3schools](https://www.w3schools.com/) - Great Resource for Coding Beginners
+* [CodeCademy](https://www.codecademy.com/) - Learn coding interactively
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax)
 * [AWS](https://aws.amazon.com/) - Recommended Hosting
 * [Uberspace](https://uberspace.de/) - Hosting Alternative with interesting pricing model
 * [Complexity kills Security](https://www.schneier.com/essays/archives/1999/11/a_plea_for_simplicit.html) - Blog post
+* [API Directory](https://www.programmableweb.com/apis/directory) - Find API on the Web
+* [OWASP](https://owasp.org/www-project-top-ten/) - Yearly evaluation of security risks
+* [Getting Git Right](https://www.atlassian.com/git) - Tutorials, news and tips for git
+* [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
+* [htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets
+* [htaccess tester](https://htaccess.madewithlove.com/) - Test your htaccess rewrite rules
+* [httpstatus](https://httpstatus.io/) - Check Status Codes, Response Headers, and Redirect Chains. 

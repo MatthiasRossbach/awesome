@@ -9,8 +9,8 @@ This is just a moderated collection of links which are useful for me:
 * [Awesome Entrepreneurship Collection](entrepreneurship.md)
 * [Awesome App & Tools Collection](apps.md)
 
-Moreover I can recommend the 'official' [awesome lists](https://github.com/sindresorhus/awesome) which exists for almost every (web) development related topic. Contrary to these lists my goal is NOT to add a comprehensive list of resources, but rather resources which are useful to me based on my personal day-to-day experience. Therefore I prefer to keep the lists concise.
+Moreover I can recommend the 'official' [awesome lists](https://github.com/sindresorhus/awesome) which exists for almost every (web) development related topic. Contrary to these lists my goal is NOT to add a comprehensive list of resources, but rather resources which are useful to me based on my personal day-to-day experience. Therefore I prefer to keep the lists concise. Moreover you can find inspiration from the lists at [ZEEF](https://zeef.com/)
 
 # Blogs
 
-See who I follow at [twitter](https://twitter.com/html5_develop/following) 
+See who I follow @[twitter](https://twitter.com/matthias_rampup/following) 

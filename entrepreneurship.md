@@ -10,6 +10,7 @@
 * [Deutsche Startups](https://www.deutsche-startups.de/startup-lotse-berlin/) - [German] Nice Collection of Resources for Berlin Founders (Also for Some Other German Cities) including List of German Investors
 * [VGSD](https://www.vgsd.de/) - An Association for Entrepreneurs
 * [Benutzerfreun.de](https://www.benutzerfreun.de/checklisten-vorlagen-fragebogen/) - [Deutsch] - Checklists, Templates, Questionnaires & Tools for UX Consultants
+* [GULP Stundensatz Kalkulator](https://www.gulp.de/stundensatzkalkulator) - Get an Average Hourly Rate by Skills and Roles Keywords
 * [KAJY Stundensatzrechner](https://kajy.calculate.design/de) - Calculate Your Hourly Rate Based on Your Target Income
 * [Selling Desing Discovery](https://www.smashingmagazine.com/2018/05/more-than-pixels-selling-design-discovery/) - Blog Article
 
@@ -23,13 +24,15 @@
 * [Kickstarter](https://www.kickstarter.com/) - Crowdfunding Platform
 * [SEEDMATCH](https://www.seedmatch.de/) - Crowdinvestng Platform
 * [Patreon](https://www.patreon.com/) - Social Payment Service Provider, especially for Content Creators
+* [YourFirstInvestor](https://yourfirstinvestor.com/) - A curated list of Equite Free Funding Options
 
 
-# Self and Team Organization
+# Information Management, Time Management, Team Organization & Visualization
 
-* [methode.de](https://www.methode.de/am/mu/am01.htm) - Collection of Self-Organization Methods
+* [methode.de](https://www.methode.de/am/mu/am01.htm) - [Deutsch] Collection of Self-Organization Methods
 * [mindmeister](https://www.mindmeister.com/de) - Mindmapping Tool
 * [Miro](https://miro.com/) - Digital Collaborative Whiteboard Tool
+* [Diagrams.net](https://www.diagrams.net/) - Free Diagramming Tool
 * [Waterfall vs Agile](https://www.seguetech.com/waterfall-vs-agile-methodology/) - Which is The Right Development Methodology for Your Project
 * [Agile Manifesto](https://agilemanifesto.org/)
 * [Agile In a Nutshell](http://www.agilenutshell.com/) - Agile Introduction
@@ -54,6 +57,7 @@
 * [Cookiebot](https://www.cookiebot.com/) - Check and Manages your Website's cookies
 * [Datenschutzhinweise](https://www.datenschutz-guru.de/datenschutzhinweise/) - [Deutsch] - Good example of Privacy Policy which is fun to read
 * [Datenschutz Generator](https://sos-recht.de/datenschutz/dsgvo-datenschutz-generator/) - [Deutsch] - Privacy Policy Generator
+* [Rechtssichere Texte](https://legal.trustedshops.com/produkte/rechtstexter) - [Deutsch] - Legal Text Generator
 * [Unternehmensregister](https://www.unternehmensregister.de/) - [German] Official source to find public information about a German company
 * [Markenrecherchen](https://www.markenlexikon.com/markenrecherchen.html) - [German] Hub for links to brand research and registration
 * [Dr. Datenschutz](https://www.dr-datenschutz.de/fachbeitraege/google-analytics-datenschutzkonform-einsetzen/) - [German] How to use Google Analytics GDPR compliant (interesting comments as well)
@@ -61,6 +65,7 @@
 * [Choose a License](https://choosealicense.com/) - Tool for Software Developers to Choose the Right License
 * [Open Source Licenses](https://opensource.org/licenses/category) - Comprehensive List of Open Source Licenses
 * [Lizenz-Center](https://ifross.github.io/ifrOSS/Lizenzcenter) - [German] Another Comprehensive List of Open Source Licenses
+* [Bildschirm- und Büroarbeitsplätze](http://www.vbg.de/SharedDocs/Medien-Center/DE/Broschuere/Themen/Bildschirm_und_Bueroarbeit/DGUV_Information_215_410_Bildschirm-_und_Bueroarbeitsplaetze.pdf?__blob=publicationFile&v=14) - [Deutsch] - Guide for workplace design
 
 
 # Insurances
@@ -73,7 +78,11 @@
 
 * [slideshare](https://de.slideshare.net/) - Find and Share Slide Shows
 * [Initiative D21](https://initiatived21.de/d21-digital-index/) - [German] Study about the State of Digitalization in Germany
-* [MacRumors](https://www.macrumors.com/) - Website about Mac News including famouse [Buyer's Guide](https://buyersguide.macrumors.com/)
+* [MacRumors](https://www.macrumors.com/) - Website about Mac News including famous [Buyer's Guide](https://buyersguide.macrumors.com/)
 * [PRAD](https://www.prad.de/) - Monitor Testing Website
 * [Tweetdeck](https://tweetdeck.twitter.com/) - Twitter Power Tool
 * [Cognitive Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) - As an entrepreneur you have to make decisions, therefore it is important to reflect your cognition
+* [Archieve.org] - Internet Wayback Machine - Find old Website
+* [productboard](https://www.productboard.com/) - Customer Engagement Platform
+* [Integromat](https://www.integromat.com/) - Connect Different Webapps to a Unified Workflow with a Low-Code Interface
+* [Free For Dev](https://github.com/ripienaar/free-for-dev) - Collection of Free Tier Offerings (SaaS, PaaS and IaaS)
