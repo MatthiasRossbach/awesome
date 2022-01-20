@@ -43,6 +43,7 @@
 * [How to write a Press Release](https://ahrefs.com/blog/how-to-write-a-press-release/) - Blog Post
 * [Presseportale](https://www.gruenderkueche.de/fachartikel/die-besten-10-kostenfreie-presseportale/) - [German] Blog Article about PR platforms
 * [Hacker News](https://news.ycombinator.com/) - News about innovations
+* [Indie Hackers](https://www.indiehackers.com/) - Another platform for SaaS Founders
 * [10000flies](https://www.10000flies.de/) - [Deutsch] - See Currently Trending News on Twitter and Facebook
 * [VG Wort](https://www.vgwort.de/startseite.html) - [German] -German Collection Society for Authors
 * [Camtasia](https://www.techsmith.de/camtasia.html) - Screen Cast Tool
@@ -71,6 +72,7 @@
 * [Betalist](https://betalist.com/) - New Startup Project List
 * [Product Hunt](https://www.producthunt.com/) - Get Feedback for New Products
 * [Gelbe Seiten](https://www.gelbeseiten.de/) - [Deutsch]
+* [Cluth](https://clutch.co/) - B2B Ratings & Reviews
 
 
 # Ads

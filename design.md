@@ -4,6 +4,9 @@ Recommended Starting Point for Design Resources is [PDR](https://www.productdesi
 
 * [Smashing Magazine](https://www.smashingmagazine.com/) - Recommended Blog for Web Creators
 * [A List Apart](https://alistapart.com/articles/) - Recommended Blog for Web Creators
+* [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d) - Good overview
+* [Laws of UX](https://lawsofux.com/) - Collection of Best Practices
+* [DesignKit](https://www.designkit.org/) - A collection of methods for Design Thinking Workshops
 * [Web Style Guide](https://webstyleguide.com/) - An old, but still valid Introduction into Web Design - Free Online Book by Patrick J. Lynch and Sarah Horton
 * [Dark Pattern](https://www.darkpatterns.org/) - Bad Design Pattern to manipulate users - please DON'T
 * [UI Patterns](http://ui-patterns.com/patterns) - Overview to User Interface Design Patterns
@@ -28,11 +31,12 @@ Recommended Starting Point for Design Resources is [PDR](https://www.productdesi
 
 # UI
 
-* [Figma](https://www.figma.com/) - Recommended design tools for UI
+* [Figma](https://www.figma.com/) - Recommended design tool for UI
 * [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/) - Iconic 'Atomic Design' (Free Online Book) by Brad Frost
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Collection Of Background Patterns
 * [Noise Texture Generator](https://www.noisetexturegenerator.com/) - Generate background pattern with noise
 * [Blob Generator](https://blobs.app/) - Generate blob shapes
+* [Haikei App](https://www.blobmaker.app/) - Some UI Style Generator (e.g. Blobs)
 * [Trianglify](https://trianglify.io/) - Create unique, aesthetically pleasing triangle patterns
 * [UI Gradients](https://uigradients.com/) - Colorful Gradient Inspirations
 * [DragGradients](https://uigradients.com/) - Radial Gradient Playground
@@ -44,6 +48,7 @@ Recommended Starting Point for Design Resources is [PDR](https://www.productdesi
 
 * [Adobe Color](https://color.adobe.com/) - Color Tool by Adobe
 * [COLOURLovers](https://www.colourlovers.com/) - Inspiration for Color Palettes
+* [ColorHunt](https://colorhunt.co/palettes/popular) - Another source of Color Inspirations
 * [Snazzy Maps](https://snazzymaps.com/) - Color Schemes for Google Maps
 * [Color Interface Tools](https://material.io/resources/color) - Apply color schemes to app interface
 * [Color Emotion Guide](https://visual.ly/community/Infographics/business/color-emotion-guide) - Infographic
@@ -65,6 +70,7 @@ Recommended Starting Point for Design Resources is [PDR](https://www.productdesi
 * [Adobe Fonts](https://fonts.adobe.com/) - Large Collection of Professional Webfonts (Part of Adobe's Creative Cloud)
 * [WhatFontIs](https://www.whatfontis.com/) - Detect Font Family from Images
 * [IdentiFont](http://www.identifont.com/) - Find Similar Fonts
+* [Webfont Generator](https://fontie.pixelsvsbytes.com/webfont-generator) - Subset a font for web usage
 
 
 ### Icons
@@ -83,6 +89,8 @@ Recommended Starting Point for Design Resources is [PDR](https://www.productdesi
 * [Base64 Image Converter](https://www.base64-image.de/) 
 * [Tiny PNG](https://tinypng.com/) - Image Compression Tool - Free up to 20 images (Web) / 500 images per month (API)
 * [Squoosh](https://squoosh.app/) - Another Free Image Compression Tool
+* [removeBG](https://www.remove.bg) - Tool to Remove the Background of Images
+* [unDraw](https://undraw.co/illustrations) - Collection of Open Source Illustrations
 
 # Design Inspiration
 
@@ -110,9 +118,11 @@ There are more excellent [styleguides](http://styleguides.io/), but these inspir
 * [CSS Animations](https://www.minimamente.com/project/magic/) - Another source of CSS Animations
 * [CSS Animations](https://cssanimation.io//) - Another source of CSS Animations
 * [CSS Animations](https://h5bp.org/Effeckt.css/) - Another source of CSS Animations
+* [Jitter](https://jitter.video/gallery/) - Another source of Animations
 * [Hover Animations](https://ianlunn.github.io/Hover) - Inspiration for CSS Hover Animations
 * [Shaky Animations](https://elrumordelaluz.github.io/csshake/) - Shaky Animations
 * [cta.js](https://kushagra.dev/lab/ctajs/) - Navigational Animations
+
 
 
 ## Slides and Marketing Materials
@@ -137,8 +147,10 @@ There are more excellent [styleguides](http://styleguides.io/), but these inspir
 * [HTML Email Designs](http://htmlemaildesigns.com/) - Email Inspirations
 * [Really Good Emails](https://reallygoodemails.com/) - Another Email Inspiration Collection
 * [niceportfol.io](http://niceportfol.io/) - List of inspiring portfolio websites
+* [Land-book](https://land-book.com/) - Web Design Inspiration Gallery
 * [CSSGalleryList](https://cssgallerylist.com/) - List of CSS Galleries
 * [Webframe](https://webframe.xyz/) - Beautiful webapp designs
 * [CallToIdea](https://calltoidea.com/) - Inpsirational Design Snippets sorted by UI Components
 * [Responsive Logos](http://responsivelogos.co.uk/)
 * [UI Experiments](https://codyhouse.co/library) - Nice Collection of Interactive UI Experiments
+* [Webdesign Trends](https://99designs.de/blog/news-trends/webdesign-trends/) - [Deutsch] - Constantly updated list of webdesign trends

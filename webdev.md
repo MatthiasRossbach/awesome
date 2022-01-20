@@ -27,25 +27,36 @@ Even if I offered services to build Wordpress websites in the past, I cannot rec
 # Django
 
 * [simple_is_better_than-complex](https://simpleisbetterthancomplex.com/) - Recommended Blog for Django
+* [Free Django Books](https://books.agiliq.com/en/latest/README.html) - Online
+* [CCBV](http://ccbv.co.uk/) - Nice overview about Class Based Views
+* [CDRF](https://www.cdrf.co/) - Nive Overview about DRV Views
 * [DJ Checkup](https://djcheckup.com/) - Security Check for Django
+* [DjangoX](https://github.com/wsvincent/djangox) - Starter Project
+* [DRFX](https://github.com/wsvincent/drfx) - Start Project with Rest Framework
 
 
 # Free Tools
 
 * [Dan's Tools](https://www.danstools.com/) - Large Collection of Tools for Web Developers, e.g. .htaccess Generator
+* [Small Dev Tools](https://smalldev.tools/) - Another Collection of Dev Tools
 * [Blindtextgenerator](https://www.blindtextgenerator.de/) - Lorem Ipsum Generator
 * [QRStuff](https://www.qrstuff.com/) - QR Code Generator
 * [Securi](https://sitecheck.sucuri.net/) - Free website security & malware scanner
 * [Who Is Hosting This?](https://digital.com/best-web-hosting/who-is/) - Who Is Hosting Any Domain
 * [Regexr](https://regexr.com/) - Free Online Regex Editor
 * [Regulex](https://jex.im/regulex) - Regular Expression Visualizer
+* [RegexOne](vhttps://regexone.com/) - An Interactive Regex Tutorial
 
 
 
 # Other 
 
+* [What I tell all new programmers](https://josephg.com/blog/what-i-tell-all-new-programmers/) - Blog Post
 * [w3schools](https://www.w3schools.com/) - Great Resource for Coding Beginners
 * [CodeCademy](https://www.codecademy.com/) - Learn coding interactively
+* [FreeCodeCamp](https://www.freecodecamp.org/) - Another source for interactive code learning
+* [Source Making](https://sourcemaking.com/refactoring) - Nice collection of code smells and how to refactor them
+* [REST API Tutorial](https://restfulapi.net/)
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax)
 * [AWS](https://aws.amazon.com/) - Recommended Hosting
 * [Uberspace](https://uberspace.de/) - Hosting Alternative with interesting pricing model
@@ -57,3 +68,4 @@ Even if I offered services to build Wordpress websites in the past, I cannot rec
 * [htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets
 * [htaccess tester](https://htaccess.madewithlove.com/) - Test your htaccess rewrite rules
 * [httpstatus](https://httpstatus.io/) - Check Status Codes, Response Headers, and Redirect Chains. 
+* [LDAP for Rocket Scientists](http://zytrax.com/books/ldap/) - Free Online Book

@@ -15,6 +15,7 @@ Recommended starting point to learn Frontend Web Technology Fundamentals is [MDN
 * [Schema Validator](https://validator.schema.org/) - Test if your Site has Valid Structured Data
 * [HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) - Simple HTML/CSS Style Guide by Google
 * [HTML Character Codes](https://websitebuilders.com/tools/html-codes/a-z/) - HTML Code for Special Character
+* [Don’t Disable Zoom](https://adrianroselli.com/2015/10/dont-disable-zoom.html) - Blog Article
 
 # SVG
 
@@ -49,7 +50,9 @@ Recommended starting point to learn Frontend Web Technology Fundamentals is [MDN
 ## CSS Generators and Playground
 
 * [CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/)
+* [Neomorphism.io](https://neumorphism.io/) - Generate Soft Icon Effects
 * [Bezier Curve Generator](https://cubic-bezier.com/) for CSS Animations, see this [Easings](https://easings.net/) for inspiration
+* [Shadows.Brumm](https://shadows.brumm.af/) - Generate Multi-Layered Box Shadows ([Figma Plugin](https://www.figma.com/community/plugin/788830704169694737/SmoothShadow) Available)
 * [NTH-TEST](http://www.topdesignagencies.com/nth-test/) - Test CSS :nth-child Selector
 * [CSS Diner](https://flukeout.github.io/#) - Fun CSS Selector Game
 * [CSS Tooltip Arrow Generator](https://cssarrowplease.com/)
@@ -64,22 +67,34 @@ Recommended starting point to learn Frontend Web Technology Fundamentals is [MDN
 * [JS Nice](http://jsnice.org/) - Refactoring Tool to get better readable code
 * [Canvas](https://github.com/codepo8/canvas-images-and-pixels/) - Demo how to use Canvas with pixel images
 
-## Libraries & Frameworks
+## Dependencies
 
 * [NPM](https://www.npmjs.com/) - Not only a source to download libraries, but provides more meta data about them (e.g. dependencies)
 * [NPM Trends](https://www.npmtrends.com/) - Compare package downloads over time
 * [Star History](https://star-history.com/) - Compare github projects over time
+
+### Libraries & Frameworks
+
 * [Vue](https://vuejs.org/)
-* [Angular](https://angular.io/)
+* [Angular](https://angular.io/) 
 * [React](https://reactjs.org/)
+* [NestJS](https://nestjs.com/) - A backend framework in Angular Style
 * [Vuetify](https://vuetifyjs.com/en/) - Recommended Vue UI Library
 * [Angular Material](https://material.angular.io/) - Recommended Angular UI Library
 * [Plyr](https://plyr.io/) - Customizable Video Player
 * [RevealJS](https://revealjs.com/) - The engine behind slides.com
 * [PrismJS](https://prismjs.com/) - Display Syntax-Highlighted Code on a Website
 * [BackgroundCheck](http://www.kennethcachia.com/background-check/index.html) - Switches Colors of Elements in front of Images
-* [SideComments](http://aroc.github.io/side-comments-demo/) - Medium Style Comments
 * [ShepardJS](https://shepherdjs.dev/) - Guide your users through a tour of your app (like IntroJS, but with MIT license)
+* [PDFMake](https://github.com/bpampuch/pdfmake) - Library for Creating PDFs in the Browser ([Alternative Documentation](https://gist.github.com/jfdesrochers/08833957232a04638c1cad4d071b31e9))
+
+### Ideas, Tutorials and Blog Posts
+
+* [Angular Course](https://codecraft.tv/courses/angular/) - Recommended Angular Introduction
+* [Server Sent Events](https://medium.com/swlh/how-do-server-sent-events-sse-or-eventsource-work-in-angular-e9e27b6a3295) - with Angular - Blog Article
+* [Full Stake Type Safty with Prisma](https://www.prisma.io/blog/full-stack-typesafety-with-angular-nest-nx-and-prisma-CcMK7fbQfTWc) - Blog Article
+* [SideComments](http://aroc.github.io/side-comments-demo/) - Medium Style Comments
+
 
 ## Dev Dependencies
 
@@ -98,6 +113,7 @@ Recommended starting point to learn Frontend Web Technology Fundamentals is [MDN
 
 # Mobile & Desktop Apps
 
+* [WHAT WEB CAN DO TODAY](https://whatwebcando.today/) - See Which 'Mobile' Features are Supported By Web APIs
 * [Electron](https://www.electronjs.org/) - Build Cross-Platform Applications with Web Stack
 * [Ionic](https://ionicframework.com/) - Framework to build Hybrid Apps
 * [React Native](https://reactnative.dev/) - Write Apps in React, renders into native Code
@@ -135,7 +151,8 @@ Recommended starting point to learn Frontend Web Technology Fundamentals is [MDN
 * [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/) - Introductionary article about accessiblity
 * [Einfach für Alle](https://www.einfach-fuer-alle.de/) - [Deutsch] Collection of Accessiblility Tools and Articles by Aktion Mensch, including German Translation of the WCAG Guidelines
 * [Web Accessiblility Checker](https://achecker.achecks.ca/checker/index.php) - WCAG 2 AA Compliance
-* [BITVTEST](https://www.bitvtest.de/) - Website Test for BITV and WCAG
+* [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
+* [BITVTEST](https://www.bitvtest.de/) - 3rd Party Website Certification for BITV and WCAG
 
 # Email
 
@@ -153,10 +170,14 @@ Recommended starting point to learn Frontend Web Technology Fundamentals is [MDN
 
 # Other
 
+* [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - Official documentation
+* [Visual Studio Code Can Do That?](https://www.smashingmagazine.com/2018/01/visual-studio-code/) - Blog Post
 * [Web Fundamentals](https://developers.google.com/web/fundamentals) - Google's opinionated reference for building amazing web experiences.
 * [Web Field Manual](https://webfieldmanual.com/) - Curated List for Web Developers
 * [Web Dev](https://web.dev/patterns/) - A collection of code snippets to help you optimize your web projects.
 * [Avoid FOUT](https://simonhearne.com/2021/layout-shifts-webfonts/) - How to avoid layout shifts caused by web fonts - Blog Post
 * [ReqRes](https://reqres.in/) - Real Server Responding Placeholder Data for Prototyping
 * [WebRTC](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC Demos, Experiments, Libraries, Examples
+* [View PDF](https://gist.github.com/falexandrou/9753871) - Code Snippet how to display PDF inline
+* [Manage Modale Windows](https://medium.com/js-dojo/vue-js-manage-your-modal-window-s-effortlessly-using-eventbus-518977195eed) - One approach of Modals with Vue - Blog Post
 
