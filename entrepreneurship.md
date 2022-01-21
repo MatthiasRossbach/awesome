@@ -1,6 +1,8 @@
 # Entrepreneurship
 
 * [Selbständig im Netz](https://www.selbstaendig-im-netz.de/) - [Deutsch] Articles and [Resources](https://www.selbstaendig-im-netz.de/links-fuer-selbstaendige-und-existenzgruender/) for Starting an Online Business
+* [Founder Resources](https://www.founderresources.io/) - Curated content & templates for every step in your startup journey
+* [Startup Stash](https://startupstash.com/) - Another collection for founders
 * [Für Gründer](https://www.fuer-gruender.de/) - [Deutsch] - Checklists, Free Tools and Templates for Founders
 * [Existenzgründer](https://www.existenzgruender.de/) - [Deutsch] - Official Hub for German Founders by Government
 * [Gründerplattform](https://gruenderplattform.de/) - [Deutsch] - Tool which Guides you through founding
@@ -11,6 +13,8 @@
 * [Benutzerfreun.de](https://www.benutzerfreun.de/checklisten-vorlagen-fragebogen/) - [Deutsch] - Checklists, Templates, Questionnaires & Tools for UX Consultants
 * [How To Craft The Perfect Web Developer Ré­su­mé](https://www.smashingmagazine.com/2018/06/web-developer-resume/) - Blog Post
 * [Finding Product Market Fit](https://docs.google.com/document/d/1yaN4HYyKqy3YenzZVNNiUQDiY17I4FvXqxydD7P1sdY) - Free Online Book
+* [Startup Launch List](https://startuplaunchlist.com/) - Reading list for startup founders
+
 
 ## Price Calculation
 
@@ -32,6 +36,10 @@
 * [YourFirstInvestor](https://yourfirstinvestor.com/) - A curated list of Equite Free Funding Options
 * [Berlin Startup Resources](https://fi.co/insight/berlin-startup-resource-list-350-accelerators-incubators-investors-and-more) - 350+ Accelerators, Incubators, Investors, and [more](https://docs.google.com/document/d/1CypZqE-IcqnrNOEnORUYR4NZu3tjFsbrjLTk1UQLwj8/edit)
 * [Angel Investment Network](https://www.angelinvestmentnetz.de/) - [Deutsch] - Network of Angel Investors
+* [Unicorn Nest](https://unicorn-nest.com/investor) - Search for Investors, including tool for [Startup Valuation](https://unicorn-nest.com/valuation)
+* [OpenVC](https://www.openvc.app/) - Another list of startup investors
+* [THE COMPLETE GUIDE TO BOOTSTRAPPING YOUR STARTUP](https://www.jotform.com/10million/story) - Free Online Book
+
 
 
 # Information Management, Time Management, Team Organization & Visualization
@@ -42,6 +50,7 @@
 * [Miro](https://miro.com/) - Digital Collaborative Whiteboard Tool
 * [Diagrams.net](https://www.diagrams.net/) - Free Diagramming Tool
 * [Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d) - A Domain Driven Design Workshop Format for Getting Shared Understanding of a Business Domain
+* [Featuremap.co](https://featuremap.co/) - Web App to Create User Story Maps
 
 ## Agile Methodology
 
@@ -72,6 +81,7 @@
 * [Developer Interview Questions](https://medium.com/illumination/the-responses-i-got-from-a-software-developer-candidate-that-made-me-hire-him-98ff8bf01298) - Some good examples - Blog Post
 * [Clean Code Developer](https://clean-code-developer.de/) - Which Level of A Developer Are You?
 * [Code Challenges](https://ccd-school.de/) - List of Code Challenges (btw: I don't recommend Coding Challenges for Hiring)
+* [Co-Founder Matching](https://www.startupschool.org/cofounder-matching) - by Y-Combinator
 * [O'sourced is!](https://osourced.is/) - Find German-speaking Virtual Assistants
 * [MyTalent.io](https://mytalent.io/) - Basically the same Platform with slightly different Contracting
 
@@ -84,6 +94,7 @@
 * [Markenrecherchen](https://www.markenlexikon.com/markenrecherchen.html) - [German] Hub for links to brand research and registration
 * [Online-Mahnantrag](https://www.online-mahnantrag.de/) - [German] - Create an offical online legal dunning request if a customer doesn't pay
 * [Bildschirm- und Büroarbeitsplätze](http://www.vbg.de/SharedDocs/Medien-Center/DE/Broschuere/Themen/Bildschirm_und_Bueroarbeit/DGUV_Information_215_410_Bildschirm-_und_Bueroarbeitsplaetze.pdf?__blob=publicationFile&v=14) - [Deutsch] - Guide for workplace design
+* [Avodocs](https://www.avodocs.com/) - Free legal documents for Startups
 
 ## Privacy and Security
 
@@ -126,4 +137,5 @@
 * [productboard](https://www.productboard.com/) - Customer Engagement Platform
 * [Integromat](https://www.integromat.com/) - Connect Different Webapps to a Unified Workflow with a Low-Code Interface
 * [Free For Dev](https://github.com/ripienaar/free-for-dev) - Collection of Free Tier Offerings (SaaS, PaaS and IaaS)
+* [Niro](https://nira.com/templates/freelancer-templates/) - Another colection of Free Tier Offerings for Freelancers
 * [Free University Courses](https://www.freecodecamp.org/news/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04/)

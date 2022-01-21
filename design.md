@@ -12,6 +12,7 @@ Recommended Starting Point for Design Resources is [PDR](https://www.productdesi
 * [UI Patterns](http://ui-patterns.com/patterns) - Overview to User Interface Design Patterns
 * [Web Usability Guidelines](https://www.userfocus.co.uk/resources/guidelines.html) - Simple timeless Principles to build a User Friendly Website
 * [Design Survival](https://www.richardbaird.co.uk/design-survival) - Collection of Principles by Designers for Designers
+* [Checklist Design](https://www.checklist.design/) - A collection of best design practices
 
 ## Wireframing
 
@@ -49,6 +50,7 @@ Recommended Starting Point for Design Resources is [PDR](https://www.productdesi
 * [Adobe Color](https://color.adobe.com/) - Color Tool by Adobe
 * [COLOURLovers](https://www.colourlovers.com/) - Inspiration for Color Palettes
 * [ColorHunt](https://colorhunt.co/palettes/popular) - Another source of Color Inspirations
+* [Coolors](https://coolors.co/) - Another source of Color Inspirations
 * [Snazzy Maps](https://snazzymaps.com/) - Color Schemes for Google Maps
 * [Color Interface Tools](https://material.io/resources/color) - Apply color schemes to app interface
 * [Color Emotion Guide](https://visual.ly/community/Infographics/business/color-emotion-guide) - Infographic
@@ -149,6 +151,7 @@ There are more excellent [styleguides](http://styleguides.io/), but these inspir
 * [niceportfol.io](http://niceportfol.io/) - List of inspiring portfolio websites
 * [Land-book](https://land-book.com/) - Web Design Inspiration Gallery
 * [CSSGalleryList](https://cssgallerylist.com/) - List of CSS Galleries
+* [SaaS Pages](https://saaspages.xyz/) - Gallery of SaaS landing pages
 * [Webframe](https://webframe.xyz/) - Beautiful webapp designs
 * [CallToIdea](https://calltoidea.com/) - Inpsirational Design Snippets sorted by UI Components
 * [Responsive Logos](http://responsivelogos.co.uk/)

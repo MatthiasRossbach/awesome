@@ -12,6 +12,7 @@
 
 * [AngelList](https://angel.co/) - A startup ecosystem
 * [Cofounderslab](https://cofounderslab.com/) - Another startup ecosystem
+* [Startupschool](https://www.startupschool.org/) - Another startup ecosystem by Y-Combinator
 * [Stealth.li](https://stealth.li/) - Platform to find cofounders
 * [Founders Network](https://foundersnetwork.com/) - Founders Helping Founders - Another network
 * [Startup sucht](https://startupsucht.com/) - [German] Find startup jobs or co-founders

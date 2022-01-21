@@ -1,10 +1,10 @@
 * [ThinkWithGoogle](https://www.thinkwithgoogle.com/) - Articles and Tools for Online Marketers by Google
 * [Marketing Charts](https://www.marketingcharts.com/) - Insightful Charts about Digital Trends
 * [Google Trends](https://trends.google.com/trends) - Compare search history of different terms over time
+* [AlternativeTo](https://alternativeto.net/) - Find alternative websites and tools
 * [SimilarWeb](https://www.similarweb.com/de/) - Get statistics (e.g. visitors) about websites
 * [BuiltWith](https://trends.builtwith.com/) - Web Technology Usage Trends
 * [HTTPArchieve](https://httparchive.org/reports) - Trend Data about Technical Usage of Modern Web Techniques
-* [AlternativeTo](https://alternativeto.net/) - Find alternative websites and tools
 * [Website Success](https://www.smashingmagazine.com/2018/05/how-do-you-know-website-success/) - Introductionary Article about Digital Strategy
 * [Website Planning Guide](https://www.smashingmagazine.com/2018/02/comprehensive-website-planning-guide-part1/) - 2 Blog Articles
 * [Guerrilla Marketing](https://www.hewo-internetmarketing.de/guerilla-marketing/) - Introduction into Guerilla Marketing
@@ -43,7 +43,7 @@
 * [How to write a Press Release](https://ahrefs.com/blog/how-to-write-a-press-release/) - Blog Post
 * [Presseportale](https://www.gruenderkueche.de/fachartikel/die-besten-10-kostenfreie-presseportale/) - [German] Blog Article about PR platforms
 * [Hacker News](https://news.ycombinator.com/) - News about innovations
-* [Indie Hackers](https://www.indiehackers.com/) - Another platform for SaaS Founders
+* [Indie Hackers](https://www.indiehackers.com/) - Another platform for Sideprojects
 * [10000flies](https://www.10000flies.de/) - [Deutsch] - See Currently Trending News on Twitter and Facebook
 * [VG Wort](https://www.vgwort.de/startseite.html) - [German] -German Collection Society for Authors
 * [Camtasia](https://www.techsmith.de/camtasia.html) - Screen Cast Tool
@@ -70,9 +70,10 @@
 * [Wichtige Webkataloge](https://www.more-fire.com/ratgeber/wichtige-webkataloge)
 * [Agenturen Verzeichnis](https://www.webdesign-verzeichnis.de/)
 * [Betalist](https://betalist.com/) - New Startup Project List
-* [Product Hunt](https://www.producthunt.com/) - Get Feedback for New Products
+* [Product Hunt](https://www.producthunt.com/) - Get Feedback for New Products ([Preview](https://previewhunt.com/))
 * [Gelbe Seiten](https://www.gelbeseiten.de/) - [Deutsch]
-* [Cluth](https://clutch.co/) - B2B Ratings & Reviews
+* [Clutch](https://clutch.co/) - B2B Ratings & Reviews
+* [280+ Top Directories](https://rocketlabs.co/submit-your-startup)
 
 
 # Ads

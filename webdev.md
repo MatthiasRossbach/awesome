@@ -1,13 +1,8 @@
 Recommended starting point to learn Web Technology Fundamentals is [MDN Web Docs](https://developer.mozilla.org/de/) and [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
-# NestJS
-
-* [Input validation with NestJS](https://dsebastien.medium.com/input-validation-with-nestjs-7184ba81af7e) - Blog post
-
-
 # Wordpress and PHP
 
-Even if I offered services to build Wordpress websites in the past, I cannot recommend that anymore. Not because Wordpress is a bad CMS (it is still the best OpenSource CMS in my opinion), but because most (SMB) customers did not understand that an own website is not a disposable - like a flyer, but a complex technical product, which needs maintenance - like a car. Therefore: If your website budget is less than 5-digits (€) => use a website builder, they are quite good nowadays and take care of maintenance. It's much more feasible for your budget to lower your requirements instead of looking for a 'perfect' solution. I recommend: [JIMDO](https://www.jimdo.com/) (GDPR-friendly option), [Webflow](https://webflow.com/) (Most customizable option), [Shopify](https://webflow.com/) (for Webshops) or [Unbounce](https://unbounce.com/) (for e-commerce landing pages).
+Even if I offered services to build Wordpress websites in the past, I cannot recommend that anymore. Not because Wordpress is a bad CMS (it is still the best OpenSource CMS in my opinion), but because most (SMB) customers did not understand that an own website is not a disposable - like a flyer, but a complex technical product, which needs maintenance - like a car. Therefore: If your website budget is less than 5-digits (€) => use a website builder, they are quite good nowadays and take care of maintenance. It's much more feasible for your budget to lower your requirements instead of looking for a 'scalable' solution. I recommend: [JIMDO](https://www.jimdo.com/) (GDPR-friendly option), [Webflow](https://webflow.com/) (Most customizable option), [Shopify](https://webflow.com/) (for Webshops) or [Unbounce](https://unbounce.com/) (for e-commerce landing pages).
 
 * [Wordpress Developer Resources](https://developer.wordpress.org/)
 * [WordPress.org Codex](https://codex.wordpress.org/) -  Wordpress Documentation in the old structure
@@ -39,6 +34,7 @@ Even if I offered services to build Wordpress websites in the past, I cannot rec
 
 * [Dan's Tools](https://www.danstools.com/) - Large Collection of Tools for Web Developers, e.g. .htaccess Generator
 * [Small Dev Tools](https://smalldev.tools/) - Another Collection of Dev Tools
+* [Web Developer Checklist](https://www.toptal.com/developers/webdevchecklist) - Analyses any web page for violations of best practices
 * [Blindtextgenerator](https://www.blindtextgenerator.de/) - Lorem Ipsum Generator
 * [QRStuff](https://www.qrstuff.com/) - QR Code Generator
 * [Securi](https://sitecheck.sucuri.net/) - Free website security & malware scanner
@@ -69,3 +65,4 @@ Even if I offered services to build Wordpress websites in the past, I cannot rec
 * [htaccess tester](https://htaccess.madewithlove.com/) - Test your htaccess rewrite rules
 * [httpstatus](https://httpstatus.io/) - Check Status Codes, Response Headers, and Redirect Chains. 
 * [LDAP for Rocket Scientists](http://zytrax.com/books/ldap/) - Free Online Book
+* [Security Checklists](https://github.com/israelroldan/awesome-checklists) - Some checklists including security checklists
