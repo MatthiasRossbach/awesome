@@ -82,6 +82,7 @@
 * [Clean Code Developer](https://clean-code-developer.de/) - Which Level of A Developer Are You?
 * [Code Challenges](https://ccd-school.de/) - List of Code Challenges (btw: I don't recommend Coding Challenges for Hiring)
 * [Co-Founder Matching](https://www.startupschool.org/cofounder-matching) - by Y-Combinator
+* [Startup sucht](https://startupsucht.com/) - [German] Find startup jobs or co-founders
 * [O'sourced is!](https://osourced.is/) - Find German-speaking Virtual Assistants
 * [MyTalent.io](https://mytalent.io/) - Basically the same Platform with slightly different Contracting
 
